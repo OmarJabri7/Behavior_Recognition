@@ -1,0 +1,10 @@
+0 commute_to_work
+1 grocery_shopping
+2 gym
+3 home
+4 outing
+5 sleeping
+6 walk_break
+7 walk_gym
+8 walk_home
+9 work

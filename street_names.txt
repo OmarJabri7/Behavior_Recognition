@@ -1,0 +1,84 @@
+0 51M & Coastal Highway
+1 Abdallah El Mashnouk
+2 Abdul Monem Riad
+3 Abdul Razzak Hamadeh
+4 Al Yanar 1
+5 Alameddine
+6 Algeria
+7 American University
+8 Andalous
+9 Antoun Gemayel
+10 Atiyah Building
+11 Baalbeck
+12 Bachir Kassar
+13 Badr Demachkieh
+14 Bani Maarouf
+15 Barouk
+16 Beirut - Saida Highway
+17 Bliss
+18 Borj El Brajneh
+19 Bourj Abi Haidar
+20 Cairo
+21 Camil Chamoun
+22 Cheikh Elias Gaspard
+23 Chouaifet El Qoubbeh
+24 Dennawi
+25 Doctor Philippe Hitti
+26 Dunant
+27 El Azhar
+28 El Hussein
+29 El Imam Abi Hanifah
+30 El Imam El Chafie
+31 El Qalaa
+32 El Rachidine
+33 Emile Edde
+34 Fatima El Zahraa
+35 Fursan El Haykal
+36 General De Gaulle
+37 George Assi
+38 Habib Abi Chahla
+39 Hachem El Khalil
+40 Hafez El Asad
+41 Haret El Oumaraa
+42 Iben Rouchoud
+43 Ibrahim Abdul Aal
+44 Independance
+45 Irwin Hall
+46 Itani
+47 Jeanne Darc
+48 Khaled Bin El Walid
+49 Khalil Moutran
+50 Knio
+51 Madam Curie
+52 Mahatma Ghandi
+53 Mar Elias
+54 Marry Edde
+55 Mazboudi
+56 Minet El Hosn
+57 Mir Majid Arsalan
+58 Mougharbel
+59 Mouhieddine Khayat
+60 Nazem Akkari
+61 Nicol Hall
+62 Old Saida Road
+63 Omar Bin Abdul Aziz
+64 Orme-Gray Hall
+65 Paris
+66 Pierre Gemayel
+67 Rome
+68 Rua Abla
+69 Sage Hall
+70 Salim Salam
+71 Sanayeh
+72 Shannon Hall
+73 Tabbara
+74 Tahouitet El Ghadir
+75 Thomas Edison
+76 Tyre
+77 Umayyad
+78 Unnamed Road
+79 Venezuela
+80 Verdun
+81 Vienna
+82 Wassef Baroudi
+83 Zeidaniye
